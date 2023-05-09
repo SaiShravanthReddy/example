@@ -5,4 +5,3 @@
  % ignite chain serve
 
 Documentation: https://docs.ignite.com
-
